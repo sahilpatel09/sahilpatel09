@@ -1,6 +1,11 @@
 ### Hi there 👋, I am Sahil.
 ![alt text](https://raw.githubusercontent.com/sahilpatel09/sahilpatel09/main/assets/me.jpg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=sahilpatel09&theme=radical)]
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpatel09&theme=radical)
+
+
 <!--
 **sahilpatel09/sahilpatel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
