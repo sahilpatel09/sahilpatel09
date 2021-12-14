@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Sahil.
+![alt text](https://raw.githubusercontent.com/sahilpatel09/sahilpatel09/main/assets/me.jpg)
 
 <!--
 **sahilpatel09/sahilpatel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
