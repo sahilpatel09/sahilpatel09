@@ -24,9 +24,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend%20Developer;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+<p align="center">
+<h1 align="center">About Me 🚀</h1>
+<p align="center">🌱 I’m a Full stack developer with a diploma in Software Engg. & Testing</p>
+<p align="center">👨‍💻  I am passionate about Web Dev & I enjoy learning new things.</p>
+</p>
+
+<p align="center">
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sahilpatel09.sahilpatel09" />
+</p>
 
 
 
@@ -40,5 +46,3 @@
 <p align="center">
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/coder-desk-3981704-3289620.png" />
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sahilpatel09.sahilpatel09)
