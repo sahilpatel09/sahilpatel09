@@ -30,17 +30,12 @@
 <p align="center">👨‍💻  I am passionate about Web Dev & I enjoy learning new things.</p>
 </p>
 
-<p align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sahilpatel09.sahilpatel09" />
-</p>
-
 
 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sahilpatel09&show_icons=true&theme=bear">
   <br/>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sahilpatel09&theme=dark&hide_border=true" width=450>
 </p>
 
 <p align="center">
