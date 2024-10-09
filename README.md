@@ -16,9 +16,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Full+Stack+Developer&center=true&width=380&height=45"></a>
 </p>
 
+## About Me
+🌱 Full stack developer with a double diploma in Software Engineering & Testing.
+👨‍💻 Passionate about Web Development, Distributed Systems, DevOps, and IoT integrations.
+🔍 Currently documenting my tech journey and knowledge base.
 
-<h1 align=center"">About Me 🚀</h1>
-🌱 I’m a Full stack developer with a diploma in Software Engg. & Testing.
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things.
+## Technical Skills
+- **Languages:** JavaScript, Python, Java, Rust (learning)
+- **Focus Areas:** Distributed Systems, DevOps, IoT integrations
+- **Experience:** 5 years in software development, management, and deployments
 
+## Professional Background
+- 💼 Working in pharma logistics, integrating IoT with analytics
+- 👥 Leading a team of developers to build modules for company vision
+- 🏗️ Expertise in large-scale project deployments
 
