@@ -11,13 +11,14 @@
   <img width="50px" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
 </p>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Full+Stack+Developer&center=true&width=380&height=45"></a>
-</p>
+</p> -->
 
 ## About Me
-🌱 Full stack developer with a double diploma in Software Engineering & Testing.
+🌱 Full stack developer with a double diploma in Software Engineering & Big data analytics.
 👨‍💻 Passionate about Web Development, Distributed Systems, DevOps, and IoT integrations.
 🔍 Currently documenting my tech journey and knowledge base.
 
