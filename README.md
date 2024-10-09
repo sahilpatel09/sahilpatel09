@@ -18,8 +18,7 @@
 </p> -->
 
 ## About Me
-🌱 Full stack developer with a double diploma in Software Engineering & Big data analytics.
-👨‍💻 Passionate about Web Development, Distributed Systems, DevOps, and IoT integrations.
+Full stack developer with a double diploma in Software Engineering & Big data analytics. Passionate about Web Development, Distributed Systems, DevOps, and IoT integrations.
 🔍 Currently documenting my tech journey and knowledge base.
 
 ## Technical Skills
