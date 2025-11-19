@@ -27,7 +27,7 @@ Full stack developer with a double diploma in Software Engineering & Big data an
 - **Experience:** 5 years in software development, management, and deployments
 
 ## Professional Background
-- 💼 Working in pharma logistics, integrating IoT with analytics
-- 👥 Leading a team of developers to build modules for company vision
-- 🏗️ Expertise in large-scale project deployments
+- Working in pharma logistics, integrating IoT with analytics
+- Leading a team of developers to build modules for company vision
+- Expertise in large-scale project deployments
 
